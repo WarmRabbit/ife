@@ -604,3 +604,164 @@ progress::-webkit-progress-value { background-color: #401C49; }
     text-align: center;
     border-radius: 10px;
 }
+
+.about-intro{
+    width: 980px;
+    height: 1400px;
+    background-color: #fff;
+    margin: 100px;
+    position: relative;
+}
+
+.about-divide{
+
+    position: absolute;
+    top: 100px;
+    left: 488px;
+    height: 1400px;
+    width: 6px;
+    background-color: #EAEAEA;
+}
+
+.about-img img{
+    position: absolute;
+    top: -59px;
+    left: 400px;
+    border: 8px solid #EAEAEA;
+    border-radius: 200px;
+}
+
+.about-selfintro h2{
+    position: absolute;
+    top: 150px;
+    left: 350px;
+}
+
+.about-selfintro p{
+    position: absolute;
+    top: 145px;
+    left: 550px;
+}
+
+.about-contact img{
+    position: absolute;
+    top: 200px;
+    left: 440px;
+    border: 8px solid #EAEAEA;
+    border-radius: 200px;
+}
+
+.about-contact h2{
+    position: absolute;
+    top: 330px;
+    left: 350px;
+}
+
+.about-contact p{
+    position: absolute;
+    top: 330px;
+    left: 550px;
+}
+
+.about-edu img{
+    position: absolute;
+    top: 400px;
+    left: 440px;
+    border: 8px solid #EAEAEA;
+    border-radius: 200px;
+}
+
+.about-edu h2{
+    position: absolute;
+    top: 540px;
+    left: 350px;
+}
+
+.about-edu .about-year1{
+    position: absolute;
+    top: 530px;
+    left: 462px;
+    border: 6px solid #EAEAEA;
+    border-radius: 15px;
+    background-color: #fff;
+}
+
+.about-edu .about-highschool{
+    position: absolute;
+    top: 540px;
+    left: 550px;
+}
+
+.about-edu .about-year2{
+    position: absolute;
+    top: 600px;
+    left: 462px;
+    border: 6px solid #EAEAEA;
+    border-radius: 15px;
+    background-color: #fff;
+}
+
+.about-edu .about-college1{
+    position: absolute;
+    top: 605px;
+    left: 550px;
+}
+
+.about-edu .about-year3{
+    position: absolute;
+    top: 670px;
+    left: 462px;
+    border: 6px solid #EAEAEA;
+    border-radius: 15px;
+    background-color: #fff;
+}
+
+.about-edu .about-college2{
+    position: absolute;
+    top: 675px;
+    left: 550px;
+}
+
+.about-work img{
+    position: absolute;
+    top: 750px;
+    left: 440px;
+    border: 8px solid #EAEAEA;
+    border-radius: 200px;
+}
+
+.about-work h2{
+    position: absolute;
+    top: 900px;
+    left: 350px;
+}
+
+.about-work .about-year4{
+    position: absolute;
+    top: 890px;
+    left: 462px;
+    border: 6px solid #EAEAEA;
+    border-radius: 15px;
+    background-color: #fff;
+}
+
+.about-work .about-company1{
+    position: absolute;
+    top: 895px;
+    left: 550px;
+}
+
+.about-work .about-year5{
+    position: absolute;
+    top: 960px;
+    left: 462px;
+    border: 6px solid #EAEAEA;
+    border-radius: 15px;
+    background-color: #fff;
+}
+
+.about-work .about-company2{
+    position: absolute;
+    top: 968px;
+    left: 550px;
+}
